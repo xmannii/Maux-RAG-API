@@ -1,3 +1,4 @@
+# ![Maux-API Banner](static/banner.png)
 # 🚀 MAUX INC RAG API
 
 Welcome to the MAUX INC RAG API! This powerful API enables you to create a Retrieval-Augmented Generation (RAG) system using OpenAI's chat completions and embeddings, along with ChromaDB for efficient document storage and retrieval.
